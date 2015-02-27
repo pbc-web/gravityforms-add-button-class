@@ -1,0 +1,13 @@
+{
+    "name": "poweredbycoffee/gravityform-add_class_to_submit",
+    "description": "Add CSS classes to the Submit button on Gravity Forms",
+    "license": "GPL2",
+    "authors": [
+        {
+            "name": "Stewart Ritchie",
+            "email": "stewart@poweredbycoffee.co.uk"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
